@@ -1,0 +1,54 @@
+Jadwal Belajar DA Selama 6 Bulan
+###Bulan 1: Dasar Analisis Data###
+
+Minggu 1-2: Pengenalan Analisis Data
+            Pahami dasar-dasar analisis data, peranannya, dan pentingnya dalam berbagai industri.
+            Pelajari tentang jenis data, sumber data, dan format data.
+Minggu 3-4: Pengenalan Excel dan Pembersihan Data
+            Kuasai fungsi-fungsi dasar Excel untuk manipulasi dan analisis data.
+            Pelajari teknik pembersihan data untuk mengatasi data yang hilang atau tidak valid.
+
+###Bulan 2: Analisis Data dengan Python###
+
+Minggu 1-2: Pengenalan Python untuk Analisis Data
+            Pelajari dasar-dasar pemrograman Python.
+            Pahami pustaka-pustaka seperti NumPy dan Pandas untuk manipulasi data.
+Minggu 3-4: Visualisasi Data dengan Matplotlib dan Seaborn
+            Jelajahi teknik visualisasi data menggunakan Matplotlib dan Seaborn.
+            Buat berbagai jenis plot, chart, dan grafik untuk menyampaikan wawasan dengan efektif.
+
+###Bulan 3: Analisis Statistik###
+
+Minggu 1-2: Statistik Deskriptif
+            Pelajari tentang ukuran pusat dan variasi data.
+            Pahami pentingnya ringkasan dan interpretasi data.
+Minggu 3-4: Statistik Inferensial
+            Pelajari uji hipotesis, interval kepercayaan, dan nilai p.
+            Terapkan uji statistik untuk membuat keputusan berdasarkan data.
+
+###Bulan 4: Dasar-Dasar Machine Learning###
+
+Minggu 1-2: Pengenalan Machine Learning
+            Pahami konsep dasar machine learning.
+            Bedakan antara pembelajaran terbimbing dan tidak terbimbing.
+Minggu 3-4: Regresi dan Klasifikasi
+            Pelajari regresi linear, regresi logistik, dan algoritma pohon keputusan.
+            Implementasikan algoritma ini dalam Python menggunakan pustaka seperti Scikit-learn.
+
+###Bulan 5: Machine Learning Lanjutan###
+
+Minggu 1-2: Evaluasi Model dan Penyetelan Hiperparameter
+            Jelajahi teknik untuk mengevaluasi model machine learning.
+            Pelajari cara mengoptimalkan kinerja model melalui penyetelan hiperparameter.
+Minggu 3-4: Pengelompokan dan Reduksi Dimensi
+            Pahami algoritma pengelompokan seperti K-means dan pengelompokan hierarkis.
+            Pelajari teknik reduksi dimensi seperti PCA.
+
+###Bulan 6: Proyek Nyata dan Spesialisasi###
+
+Minggu 1-2: Penanganan Data dan Feature Engineering
+            Pelajari cara memproses dan mengubah data untuk machine learning.
+            Buat fitur-fitur yang bermakna untuk meningkatkan kinerja model.
+Minggu 3-4: Pilih Spesialisasi dan Selesaikan Proyek
+            Pilih spesialisasi analisis data berdasarkan minat Anda (misalnya analisis pemasaran, analisis keuangan, dll.).
+            Kerjakan proyek-proyek praktis yang memperlihatkan keterampilan dan pengetahuan Anda dalam analisis data.
